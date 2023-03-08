@@ -18,24 +18,20 @@ Para completar o desafio, algumas ações extras foram realizadas:
 Caso queira testar essa aplicação localmente em sua máquina, os seguintes passos devem ser seguidos:
 
 1. Fazer o FORK (clonar) deste repositório;
-2. Dentro do diretório clonado na sua máquina, digite `yarn`;
-3. Para inicializar a aplicação, digite `yarn dev`;
-4.  Pronto! A aplicação está aberta! basta abrir o navegador e digitar no campo url: <http://localhost:5173>.
+2. Utilizar o comando GIT push no seu terminal(Caso utilize versionamento através do GIT);
+3. Pronto, a aplicação estará na sua máquina, agora poderá abrir o arquivo e utilizar
 
 <h2>Tecnologias utilizadas</h2>
 
 - Javascript
-- React.js
-- Styled Components
-- Firebase
-- React Router Dom
-- Firebase Hooks
+- CSS
+- HTML
 
 <h2>Screenshots</h2>
 
-Página de Login do usuário
+Página Inicial
 
-![login-page](https://user-images.githubusercontent.com/99763243/206442692-b6a30db0-59c6-469f-b2c0-787c70a19b87.png)
+![image](https://user-images.githubusercontent.com/100103360/223759132-91bf06cf-84e8-4589-900a-77136c7260c6.png)
 
 Modal mostrado ao abrir a página do chat
 
