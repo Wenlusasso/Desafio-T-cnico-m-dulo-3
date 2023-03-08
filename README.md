@@ -40,3 +40,8 @@ Filtro de pesquisa aplicado, neste caso para o filme 'Avatar'
 Modal após clicar em um filme escolhido para visualizar mais informações
 
 ![image](https://user-images.githubusercontent.com/100103360/223759806-5cf1bc23-9b9c-4a43-877e-3b6bccb1ebbe.png)
+
+Possibilidade de uso também do tema 'light'
+
+![image](https://user-images.githubusercontent.com/100103360/223760173-b3567ae6-e392-4417-8b5c-74bfe557644a.png)
+
