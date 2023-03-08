@@ -3,20 +3,16 @@
 [![My Skills](https://skillicons.dev/icons?i=css,html,js)](https://skillicons.dev)
 
 <h2>Detalhes do projeto</h2>
-Foi desenvolvido uma aplicação de um chat em tempo real utilizando o banco de dados em tempo real do <a href="https://firebase.google.com/">Firebase</a>
+Foi desenvolvido um site para busca de filmes
 
-- Criação de um chat em tempo real
-- Desenvolver um chatbot com comandos utilizáveis
-- Armazenar as informações dos usuários e suas respectivas mensagens
+- Pesquisa de filmes
+- Visualização de suas sinopses e avaliação de usuários
+- Ajuste de preferência entre temas 'dark' e 'light'
 
 <h2>Adicionais</h2>
 Para completar o desafio, algumas ações extras foram realizadas:
 
-- Para o cadastro do usuário, utilizei o recurso do "Login com o Google", da biblioteca <a href="https://firebase.google.com/">Firebase</a>
-- Para amostras de erros ou mensagens para o usuário, utilizei a biblioteca <a href="https://fkhadra.github.io/react-toastify">React-toastify</a>
-- Para melhor experiência do usuário, adicionei a feature de Emojis para o chat, utilizando a biblioteca <a href="https://github.com/ealush/emoji-picker-react">Emoji Picker React</a>
-- Responsividade para melhor experiência do usuário em várias plataformas.
-- Deploy (Link no início desde documento)
+- Para o banco de dados com os filmes e suas informações, utilizei os dados da seguinte API <https://www.themoviedb.org/documentation/api>.
 
 <h2>Testando localmente</h2>
 Caso queira testar essa aplicação localmente em sua máquina, os seguintes passos devem ser seguidos:
