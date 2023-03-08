@@ -29,7 +29,7 @@ Caso queira testar essa aplicação localmente em sua máquina, os seguintes pas
 
 <h2>Screenshots</h2>
 
-Página Inicial
+Página Inicial com tema 'dark'
 
 ![image](https://user-images.githubusercontent.com/100103360/223759132-91bf06cf-84e8-4589-900a-77136c7260c6.png)
 
