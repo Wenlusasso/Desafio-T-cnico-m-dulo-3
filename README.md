@@ -33,9 +33,9 @@ Página Inicial
 
 ![image](https://user-images.githubusercontent.com/100103360/223759132-91bf06cf-84e8-4589-900a-77136c7260c6.png)
 
-Modal mostrado ao abrir a página do chat
+Filtro de pesquisa aplicado, neste caso para o filme 'Avatar'
 
-![modal-chatbot](https://user-images.githubusercontent.com/99763243/206443533-d1067c3c-12d9-4392-9036-b73b23e908c5.png)
+![image](https://user-images.githubusercontent.com/100103360/223759516-7663e390-3fba-4213-bfd8-509cca71ec08.png)
 
 Página do chat, com comandos do chatbot
 
