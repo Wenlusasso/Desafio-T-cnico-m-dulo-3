@@ -37,6 +37,6 @@ Filtro de pesquisa aplicado, neste caso para o filme 'Avatar'
 
 ![image](https://user-images.githubusercontent.com/100103360/223759516-7663e390-3fba-4213-bfd8-509cca71ec08.png)
 
-Página do chat, com comandos do chatbot
+Modal após clicar em um filme escolhido para visualizar mais informações
 
-![chat-with-chatbot](https://user-images.githubusercontent.com/99763243/206443975-9526a1e1-1c73-4f7f-858a-cfadc3a863fa.png)
+![image](https://user-images.githubusercontent.com/100103360/223759806-5cf1bc23-9b9c-4a43-877e-3b6bccb1ebbe.png)
