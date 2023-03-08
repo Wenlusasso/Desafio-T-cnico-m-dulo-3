@@ -26,6 +26,7 @@ Caso queira testar essa aplicação localmente em sua máquina, os seguintes pas
 - Javascript
 - CSS
 - HTML
+- Axios
 
 <h2>Screenshots</h2>
 
